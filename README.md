@@ -25,7 +25,7 @@ deepfake-detector/
 ## 설치 방법
 1. 이 저장소를 클론합니다.
 ```
-git clone https://github.com/your-username/deepfake-detector.git
+git clone https://github.com/Deep-Guardians/deepfake-detector.git
 cd deepfake-detector
 ```
 2. 필요한 패키지를 설치합니다.
