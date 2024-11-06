@@ -1,0 +1,11 @@
+cmake
+dlib
+PyWavelets
+timm
+tqdm
+wandb
+torch
+torchvision
+torchaudio
+opencv-python
+scikit-image
